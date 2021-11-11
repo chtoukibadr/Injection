@@ -1,0 +1,15 @@
+.tagetik-valo-theme .tgk-tiles-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #007ac3;
+    background: -moz-linear-gradient(0deg, #007ac3 0%, #007ac3 100%);
+    background: -webkit-linear-gradient(
+0deg, #181f23 0%, #007ac3 100%);
+}
+
+.tagetik-valo-theme .grid-stack > .grid-stack-item > .grid-stack-item-content {
+    -ms-overflow-y: hidden;
+    border-radius: 5
+px
+;
+}

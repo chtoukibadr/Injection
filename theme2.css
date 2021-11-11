@@ -1,0 +1,8 @@
+.tagetik-valo-theme .tgk-tiles-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #007ac3;
+    background: -moz-linear-gradient(0deg, #007ac3 0%, #007ac3 100%);
+    background: -webkit-linear-gradient(
+0deg, #786Y77 0%, #090987 100%);
+}
